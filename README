@@ -1,0 +1,21 @@
+
+# Groover Coding Challange
+
+## Installation
+
+make sure python3 is installed
+
+## How to run
+
+python three_songs.py 2,2,7,5 14
+
+here 2,2,7,5 is the band music and 14 is the total opening act time length
+
+## Project Structure
+
+three_songs.py - A boolean function to check if band have three songs witch respect target time 
+
+max_songs.py - 
+
+
+
