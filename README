@@ -15,7 +15,7 @@ here 2,2,7,5 is the band music and 14 is the total opening act time length
 
 three_songs.py - A boolean function to check if band have three songs witch respect target time 
 
-max_songs.py - 
+max_songs.py - A boolean function to check if band songs witch respect exactly target time 
 
 
 
